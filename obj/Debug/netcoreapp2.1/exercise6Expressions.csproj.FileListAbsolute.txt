@@ -1,0 +1,11 @@
+/Users/lauren/workspace/csharp/exercise6Expressions/bin/Debug/netcoreapp2.1/exercise6Expressions.deps.json
+/Users/lauren/workspace/csharp/exercise6Expressions/bin/Debug/netcoreapp2.1/exercise6Expressions.runtimeconfig.json
+/Users/lauren/workspace/csharp/exercise6Expressions/bin/Debug/netcoreapp2.1/exercise6Expressions.runtimeconfig.dev.json
+/Users/lauren/workspace/csharp/exercise6Expressions/bin/Debug/netcoreapp2.1/exercise6Expressions.dll
+/Users/lauren/workspace/csharp/exercise6Expressions/bin/Debug/netcoreapp2.1/exercise6Expressions.pdb
+/Users/lauren/workspace/csharp/exercise6Expressions/obj/Debug/netcoreapp2.1/exercise6Expressions.csprojAssemblyReference.cache
+/Users/lauren/workspace/csharp/exercise6Expressions/obj/Debug/netcoreapp2.1/exercise6Expressions.csproj.CoreCompileInputs.cache
+/Users/lauren/workspace/csharp/exercise6Expressions/obj/Debug/netcoreapp2.1/exercise6Expressions.AssemblyInfoInputs.cache
+/Users/lauren/workspace/csharp/exercise6Expressions/obj/Debug/netcoreapp2.1/exercise6Expressions.AssemblyInfo.cs
+/Users/lauren/workspace/csharp/exercise6Expressions/obj/Debug/netcoreapp2.1/exercise6Expressions.dll
+/Users/lauren/workspace/csharp/exercise6Expressions/obj/Debug/netcoreapp2.1/exercise6Expressions.pdb
